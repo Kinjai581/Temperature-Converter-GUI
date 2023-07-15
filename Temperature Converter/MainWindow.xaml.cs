@@ -59,8 +59,6 @@ namespace TemperatureConverter
 
             
             string strlblResult = lblResult.Content.ToString();
-            
-            
             HistoryTemp.AppendText(strlblResult + "\n");
             
             
