@@ -1,0 +1,20 @@
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\bin\Debug\net6.0-windows\Temperature Converter GUI.exe
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\bin\Debug\net6.0-windows\Temperature Converter GUI.deps.json
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\bin\Debug\net6.0-windows\Temperature Converter GUI.runtimeconfig.json
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\bin\Debug\net6.0-windows\Temperature Converter GUI.dll
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\bin\Debug\net6.0-windows\Temperature Converter GUI.pdb
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\obj\Debug\net6.0-windows\Temperature Converter GUI.csproj.AssemblyReference.cache
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\obj\Debug\net6.0-windows\Temperature Converter GUI_MarkupCompile.cache
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\obj\Debug\net6.0-windows\Temperature Converter GUI.g.resources
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\obj\Debug\net6.0-windows\Temperature Converter GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\obj\Debug\net6.0-windows\Temperature Converter GUI.AssemblyInfoInputs.cache
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\obj\Debug\net6.0-windows\Temperature Converter GUI.AssemblyInfo.cs
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\obj\Debug\net6.0-windows\Temperature Converter GUI.csproj.CoreCompileInputs.cache
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\obj\Debug\net6.0-windows\Temperature Converter GUI.dll
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\obj\Debug\net6.0-windows\refint\Temperature Converter GUI.dll
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\obj\Debug\net6.0-windows\Temperature Converter GUI.pdb
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\obj\Debug\net6.0-windows\Temperature Converter GUI.genruntimeconfig.cache
+C:\Users\praka\source\repos\Temperature Converter\Temperature Converter\obj\Debug\net6.0-windows\ref\Temperature Converter GUI.dll
